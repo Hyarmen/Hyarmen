@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudanto HTML/CSS, JavaScript e BootStrap.
-- 👨🏽‍💻 Preparando para embarcar no bundo do back-end!
+- 👨🏽‍💻 Preparando para embarcar no mundo do back-end! (Java e Spring)
 - 🤔 Buscando ajuda com front-end
 - ⚡ Fun fact: eu amo chocolate! 🍫
 
