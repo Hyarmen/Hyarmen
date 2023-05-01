@@ -1,10 +1,12 @@
 ### Olá, mundo! Eu sou a Ana (Hyarmen) 👋
 
 
-- 🌱 Estudanto HTML/CSS, JavaScript e BootStrap.
-- 👨🏽‍💻 Preparando para embarcar no mundo do back-end! (Java e Spring)
-- 🤔 Buscando ajuda com front-end
-- ⚡ Fun fact: eu amo chocolate! 🍫
+- 🌱 Estudando
+- Frontend: HTML/CSS, JavaScript e BootStrap.
+- Backend: Java.
+- 👨🏽‍💻 Embarcar no mundo do back-end com Java!
+- 🤔 Buscando dicas para estudos de back-end (java)!
+- ⚡ Fun fact: eu amo chocolate 🍫, gosto de desenhar e ouvir músicas.
 
 ##
 
@@ -21,6 +23,10 @@
   <img align="center" alt="Hyar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hyar-BootStrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Hyar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ </div>
 
 ##
 
