@@ -1,11 +1,11 @@
 ### Olá, mundo! Eu sou a Ana (Hyarmen) 👋
 
 
-- 🌱 Estudando
+- 🌱 Estudando DADOS ✨
 - Frontend: HTML/CSS, JavaScript e BootStrap.
 - Backend: Java.
-- 👨🏽‍💻 Embarcar no mundo do back-end com Java!
-- 🤔 Buscando dicas para estudos de back-end (java)!
+- 👨🏽‍💻 Embarcando no mundo de dados!
+- 🤔 Buscando dicas para estudos de dados!
 - ⚡ Fun fact: eu amo chocolate 🍫, gosto de desenhar e ouvir músicas.
 
 ##
